@@ -1,1 +1,0 @@
-# Tello-Drone-AI-Recognition
