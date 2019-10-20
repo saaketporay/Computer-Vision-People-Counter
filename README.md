@@ -1,4 +1,4 @@
-# Tello-Drone-AI-Recognition
+# Computer-Vision-People-Counter
 This repository lets a user take live feed from a webcam and outputs the amount of humans in the image. 
 
 # Prerequisites
