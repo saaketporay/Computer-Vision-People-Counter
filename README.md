@@ -1,5 +1,7 @@
 # Computer-Vision-People-Counter
 This repository lets a user take live feed from a webcam and outputs the amount of humans in the image. 
+Used at the EmTech Hacakthon 2019: https://devpost.com/software/using-computer-vision-to-aid-in-search-and-rescue
+Authors: @saaketporay @jayanthd04
 
 # Prerequisites
 This repo assumes that the user has installed openCV
