@@ -1,5 +1,5 @@
 # Computer-Vision-People-Counter
-This repository lets a user take live feed from a webcam and outputs the amount of humans in the image. 
+This program lets a user take live feed from a webcam and output the number of people in the image. 
 Created at the EmTech Hacakthon 2019: https://devpost.com/software/using-computer-vision-to-aid-in-search-and-rescue
 
 Authors: @saaketporay @jayanthd04
